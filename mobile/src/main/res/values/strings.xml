@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cs Brinquedinho</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enviar">Enviar</string>
+    <string name="name">Nome</string>
+    <string name="annotation">Anotação</string>
+    <string name="title">Titulo</string>
+</resources>
